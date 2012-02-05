@@ -1,0 +1,7 @@
+A simplish `bot` to automate reddit moderation.
+
+TODO:
+
+- regex for conditions (setting on create, returning, testing)
+- bot `main` flow
+- regular and/or scheduled `main` flow implementation for all/specific subreddits
